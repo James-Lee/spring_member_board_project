@@ -934,9 +934,7 @@ P.HStyle17, LI.HStyle17, DIV.HStyle17
 	<P CLASS=HStyle0 STYLE='text-align:left;'><SPAN STYLE='font-size:11.3pt;font-family:"HelveticaNeue,한컴돋움";line-height:160%;'>4.6.1</SPAN></P>
 	</TD>
 </TR>
-</TABLE></P>
-<BR><BR>
-    
+</TABLE>
     
     <img src="https://github.com/James-Lee/spring_member_board_project/blob/main/pic/1.PNG" />
     <img src="https://github.com/James-Lee/spring_member_board_project/blob/main/pic/2.PNG" />
