@@ -1,4 +1,3 @@
-
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 
@@ -935,11 +934,10 @@ P.HStyle17, LI.HStyle17, DIV.HStyle17
 	</TD>
 </TR>
 </TABLE>
-    
-    <img src="https://github.com/James-Lee/spring_member_board_project/blob/main/pic/1.PNG" />
+
+
+<img src="https://github.com/James-Lee/spring_member_board_project/blob/main/pic/1.PNG" />
     <img src="https://github.com/James-Lee/spring_member_board_project/blob/main/pic/2.PNG" />
 </BODY>
 
 </HTML>
-
-
